@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.JS stacks
 - 👯 I’m currently working at a company named GX3S
 - 🤔 I’m looking for remote opportunities globally
-- 📫 You can reach me via email
+- 📫 You can reach me via weicee@foxmail.com
 
 <!-- 💬 Ask me about ...
 😄 Pronouns: ...
